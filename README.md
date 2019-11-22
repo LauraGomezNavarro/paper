@@ -1,1 +1,1 @@
-# paper
+Codes used for the paper: Gómez-Navarro, L.; Cosme, E.; Le Sommer, J.; Papadakis, N.; and Pascual, A.  Development of an image de-noising method in preparation for the Surface Water and Ocean Topography satellite mission. Remote Sens. ??
