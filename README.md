@@ -18,8 +18,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 2a](figures/noise_pass09.png): xxxxx
-<br>
+[Figure 2a](figures/noise_pass09.png): xxxxx <br>
 [Figure 2b](figures/noise_pass22.png): xxxxx
 
 
