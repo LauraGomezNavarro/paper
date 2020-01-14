@@ -12,7 +12,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 1](figures/swot_box_select.png)
+		* [Figure 1](figures/swot_box_select.png)
 
 * [fig_02.ipynb](fig_02.ipynb)
 
@@ -21,8 +21,8 @@ Figures:
 		* MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009.nc
 		
 	* Out: <br>
-[Figure 2a](figures/noise_pass09.png) <br>
-[Figure 2b](figures/noise_pass22.png)
+		* [Figure 2a](figures/noise_pass09.png) <br>
+		* [Figure 2b](figures/noise_pass22.png)
 
 
 * [fig_03.ipynb](fig_03.ipynb)
@@ -32,7 +32,7 @@ Figures:
 		(data obtained from: http://servdap.legi.grenoble-inp.fr/meom/NATL60MED/NATL60MED-CJM165-S/)
 		
 	* Out: <br>
-[Figure 3](figures/norms_intime_subdomain_seasons.png)
+		* [Figure 3](figures/norms_intime_subdomain_seasons.png)
 
 * [fig_04.ipynb](fig_04.ipynb)
 
@@ -41,7 +41,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 4](figures/scores_varreg2_K_A_ext_bars_seasons_5_P.png)
+		* [Figure 4](figures/scores_varreg2_K_A_ext_bars_seasons_5_P.png)
 
 * [fig_05.ipynb](fig_05.ipynb)
 
@@ -50,8 +50,8 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 5a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_params_v3_var_reg2_lambd_00430_KA.png) <br>
-[Figure 5b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_params_v3_var_reg2_lambd_00430_KA.png)
+		* [Figure 5a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_params_v3_var_reg2_lambd_00430_KA.png) <br>
+		* [Figure 5b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_params_v3_var_reg2_lambd_00430_KA.png)
 
 * [fig_06.ipynb](fig_06.ipynb)
 
@@ -60,8 +60,8 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 6a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_params_v7_var_reg2_lambd_00095_KA.png) <br>
-[Figure 6b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_params_v7_var_reg2_lambd_00095_KA.png)
+		* [Figure 6a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_params_v7_var_reg2_lambd_00095_KA.png) <br>
+		* [Figure 6b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_params_v7_var_reg2_lambd_00095_KA.png)
 
 * [fig_07.ipynb](fig_07.ipynb)
 
@@ -70,7 +70,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise.png)
+		* [Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise.png)
 
 * fig_A1.ipynb
 
@@ -80,8 +80,8 @@ Figures:
 		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
-[Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000430_bc_ga_A.png) <br>
-[Figure A1b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_lambd_0000430_bc_ga_A.png)
+		* [Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000430_bc_ga_A.png) <br>
+		* [Figure A1b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_lambd_0000430_bc_ga_A.png)
 
 * fig_A2.ipynb
 
@@ -91,8 +91,8 @@ Figures:
 		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
-[Figure A2a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_lambd_0000095_bc_ga_A.png) <br>
-[Figure A2b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_lambd_0000095_bc_ga_A.png)
+		* [Figure A2a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_lambd_0000095_bc_ga_A.png) <br>
+		* [Figure A2b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_lambd_0000095_bc_ga_A.png)
 
 # Calculations:
 
