@@ -17,8 +17,8 @@ Figures:
 * [fig_02.ipynb](fig_02.ipynb)
 
 	* In:<br>
-		* xxxx.nc
-		* xxx and xxx.  Obtained from: xxxx.py
+		* MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009.nc
+		* MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009.nc
 		
 	* Out: <br>
 [Figure 2a](figures/noise_pass09.png): xxxxx <br>
