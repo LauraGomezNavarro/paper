@@ -28,11 +28,11 @@ Figures:
 * [fig_03.ipynb](fig_03.ipynb)
 
 	* In:<br>
-		* xxxx.nc
-		* xxx and xxx.  Obtained from: xxxx.py
+		* NATL60MED-CJM165_y2012m06d14-y2013m10d01.1d_gridTsurf.nc
+		(data obtained from: http://servdap.legi.grenoble-inp.fr/meom/NATL60MED/NATL60MED-CJM165-S/)
 		
 	* Out: <br>
-[Figure 3](figures/norms_intime_subdomain_seasons.png): xxxxx
+[Figure 3](figures/norms_intime_subdomain_seasons.png)
 
 * [fig_04.ipynb](fig_04.ipynb)
 
@@ -70,7 +70,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-[Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise.png): xxxxx)
+[Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise.png)
 
 * fig_A1.ipynb
 
