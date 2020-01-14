@@ -63,8 +63,7 @@ Figures:
 [Figure 6a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_params_v7_var_reg2_lambd_00095_KA.png): xxxxx <br>
 [Figure 6b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_params_v7_var_reg2_lambd_00095_KA.png): xxxxx
 
-* fig_07.ipynb 
-[Figure 07](fig_07.ipynb): xxxxx 
+* [fig_07.ipynb](fig_07.ipynb): xxxxx 
 
 	* In:<br>
 		* xxxx.nc
