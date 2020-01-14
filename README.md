@@ -77,6 +77,7 @@ Figures:
 	* In:<br>
 		* xxxx.nc
 		* xxx and xxx.  Obtained from: xxxx.py
+		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
 [Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000430_bc_ga_A.png): xxxxx <br>
@@ -87,6 +88,7 @@ Figures:
 	* In:<br>
 		* xxxx.nc
 		* xxx and xxx.  Obtained from: xxxx.py
+		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
 [Figure A2a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_lambd_0000095_bc_ga_A.png): xxxxx <br>
