@@ -82,9 +82,7 @@ def plot_swot(axn, var, lonv, latv, vmin, vmax, cmap, merv, parv, box, plotstyle
 
 #matplotlib.rcParams['contour.negative_linestyle'] = 'solid'
 
-sys.path.insert(0, "/Users/laura/PhD_private/data/wmed_hourly_models/")
-
-import SWOTdenoise_v3_3 as swotd
+import SWOTdenoise as swotd
 
 # Need to load the SWOTdenoise module
 
@@ -220,7 +218,7 @@ def swot_filt_qual_plot(filename, filename_den_dp, nlambda, filename_den_bc, fil
         vof_ga = derivatives_calc_method(sshof_ga, lon, lat, x_ac, x_al, order='2')
         vof_ga = mask_borders(vof_ga)
         
-        savename = fileroot + '_c' + str(ncyc).zfill(2) + '_p' + str(npass).zfill(3) + '_lambd_' + str(int(nlambda)).zfill(7) + '_bc_ga_A.png'
+        savename = 'figures/' + fileroot + '_c' + str(ncyc).zfill(2) + '_p' + str(npass).zfill(3) + '_lambd_' + str(int(nlambda)).zfill(7) + '_bc_ga_A.png'
         print(savename)
 
         cmap1 = 'viridis' #cmocean.cm.haline #same, viridis #getncvcm('banded', reverse=False, half=0)
