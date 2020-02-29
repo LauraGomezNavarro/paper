@@ -74,7 +74,7 @@ Figures:
 	* Out: <br>
 		* [Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise_v3.png)
 
-* fig_A1.ipynb
+* [fig_A1.ipynb](fig_A1.ipynb)
 
 	* In:<br>
 		* xxxx.nc
@@ -85,7 +85,7 @@ Figures:
 		* [Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000455_bc_ga_A.png) <br>
 		* [Figure A1b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_lambd_0000455_bc_ga_A.png)
 
-* fig_A2.ipynb
+* [fig_A2.ipynb](fig_A2.ipynb)
 
 	* In:<br>
 		* xxxx.nc
