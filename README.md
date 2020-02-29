@@ -50,8 +50,8 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-		* [Figure 5a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_params_v3_var_reg2_lambd_00430_KA.png) <br>
-		* [Figure 5b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_params_v3_var_reg2_lambd_00430_KA.png)
+		* [Figure 5a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_params_v3_var_reg2_lambd_00455_KA.png) <br>
+		* [Figure 5b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_params_v3_var_reg2_lambd_00455_KA.png)
 
 * [fig_06.ipynb](fig_06.ipynb)
 
@@ -60,8 +60,8 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-		* [Figure 6a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_params_v7_var_reg2_lambd_00095_KA.png) <br>
-		* [Figure 6b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_params_v7_var_reg2_lambd_00095_KA.png)
+		* [Figure 6a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_params_v7_var_reg2_lambd_00105_KA.png) <br>
+		* [Figure 6b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_params_v7_var_reg2_lambd_00105_KA.png)
 
 * [fig_07.ipynb](fig_07.ipynb)
 
@@ -70,7 +70,7 @@ Figures:
 		* xxx and xxx.  Obtained from: xxxx.py
 		
 	* Out: <br>
-		* [Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise.png)
+		* [Figure 7](figures/spectra_min_MSR_varreg2_all_new_EB_noise_v3.png)
 
 * fig_A1.ipynb
 
@@ -80,8 +80,8 @@ Figures:
 		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
-		* [Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000430_bc_ga_A.png) <br>
-		* [Figure A1b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_lambd_0000430_bc_ga_A.png)
+		* [Figure A1a](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c02_p009_lambd_0000455_bc_ga_A.png) <br>
+		* [Figure A1b](figures/MED_1km_nogap_JAS12_swotFastPhase_BOX_c06_p009_lambd_0000455_bc_ga_A.png)
 
 * fig_A2.ipynb
 
@@ -91,8 +91,8 @@ Figures:
 		* Needs: [swot_filt_qual_plot_A.py](swot_filt_qual_plot_A.py)
 		
 	* Out: <br>
-		* [Figure A2a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_lambd_0000095_bc_ga_A.png) <br>
-		* [Figure A2b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_lambd_0000095_bc_ga_A.png)
+		* [Figure A2a](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c02_p009_lambd_0000105_bc_ga_A.png) <br>
+		* [Figure A2b](figures/MED_1km_nogap_FMA13_swotFastPhase_BOX_c06_p009_lambd_0000105_bc_ga_A.png)
 
 # Calculations:
 
